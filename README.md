@@ -11,3 +11,5 @@
 - [N-Repeated Element in Size 2N Array(符合鸽子洞定理的查找最大元素)](file/N-Repeated_Element_in_Size_2N_Array.md)
 - [Robot Return to Origin(计算机器人移动路径是否返回原点)](file/Robot_Return_to_Origin.md)
 - [Squares of a Sorted Array(将包含负数的数组求平方值并重排序)](file/Squares_of_a_Sorted_Array.md)
+- [Self Dividing Numbers(计算两个数字之间能除尽所有组成数字的数)](file/Self_Dividing_Numbers.md)
+- [Merge Two Binary Trees(合并两个数的值)](file/Merge_Two_Binary_Trees.md)
