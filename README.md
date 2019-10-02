@@ -12,4 +12,6 @@
 - [Robot Return to Origin(计算机器人移动路径是否返回原点)](file/Robot_Return_to_Origin.md)
 - [Squares of a Sorted Array(将包含负数的数组求平方值并重排序)](file/Squares_of_a_Sorted_Array.md)
 - [Self Dividing Numbers(计算两个数字之间能除尽所有组成数字的数)](file/Self_Dividing_Numbers.md)
-- [Merge Two Binary Trees(合并两个数的值)](file/Merge_Two_Binary_Trees.md)
+- [Merge Two Binary Trees(合并两个树的值)](file/Merge_Two_Binary_Trees.md)
+- [Hamming Distance(计算二进制数之间的海明距离)](file/Hamming_Distance.md)
+- [Peak Index in a Mountain Array(在一个数值分布类似山峰的数组中寻找最大值的索引)](file/Peak_Index_in_a_Mountain_Array.md)
