@@ -15,3 +15,6 @@
 - [Merge Two Binary Trees(合并两个树的值)](file/Merge_Two_Binary_Trees.md)
 - [Hamming Distance(计算二进制数之间的海明距离)](file/Hamming_Distance.md)
 - [Peak Index in a Mountain Array(在一个数值分布类似山峰的数组中寻找最大值的索引)](file/Peak_Index_in_a_Mountain_Array.md)
+- [Array Partition I(数组排序再两两一组，然后求每组最小值累计之和)](file/Array_Partition_I.md)
+- [DI String Match(按规律计算数组中特定符号的值)](file/DI_String_Match.md)
+
