@@ -17,4 +17,7 @@
 - [Peak Index in a Mountain Array(在一个数值分布类似山峰的数组中寻找最大值的索引)](file/Peak_Index_in_a_Mountain_Array.md)
 - [Array Partition I(数组排序再两两一组，然后求每组最小值累计之和)](file/Array_Partition_I.md)
 - [DI String Match(按规律计算数组中特定符号的值)](file/DI_String_Match.md)
+- [Delete Columns to Make Sorted(删列造序)](file/Delete_Columns_to_Make_Sorted.md)
+
+
 
