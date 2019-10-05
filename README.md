@@ -1,4 +1,9 @@
 # 目录
+## 算法理论
+- [大O表示法](file/book/big_o.md)
+- [二分查找](file/book/binary_array.md)
+
+## LeetCode
 - [Defanging an IP Address(替换IP地址中的点)](file/Defanging_an_IP_Address.md)
 - [Jewels and Stones(计算一个字符串中的字符累计在另一个字符串中出现的次数)](file/Jewels_and_Stones.md)
 - [Range Sum of BST(计算二叉搜索树两点之间所有值的和)](file/Range_Sum_of_BST.md)
