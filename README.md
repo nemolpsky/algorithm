@@ -2,6 +2,7 @@
 ## 算法理论
 - [大O表示法](file/book/big_o.md)
 - [二分查找](file/book/binary_array.md)
+- [快速排序](file/book/quick_sort.md)
 
 ## LeetCode
 - [Defanging an IP Address(替换IP地址中的点)](file/Defanging_an_IP_Address.md)
@@ -9,7 +10,6 @@
 - [Range Sum of BST(计算二叉搜索树两点之间所有值的和)](file/Range_Sum_of_BST.md)
 - [To Lower Case(替换字符串中的大写字母为小写字母)](file/To_Lower_Case.md)
 - [Unique Morse Code Words(单词转换为摩斯电码，求去重之后的数量)](file/Unique_Morse_Code_Words.md)
-
 - [Remove Outermost Parentheses(去除包含多个嵌套的括号字符串中的最外层的括号)](file/Remove_Outermost_Parentheses.md)
 - [Flipping an Image (数组反转顺序再反转值)](file/Flipping_an_Image.md)
 - [Sort Array By Parity(奇偶顺序排列数组)](file/Sort_Array_By_Parity.md)
@@ -23,6 +23,16 @@
 - [Array Partition I(数组排序再两两一组，然后求每组最小值累计之和)](file/Array_Partition_I.md)
 - [DI String Match(按规律计算数组中特定符号的值)](file/DI_String_Match.md)
 - [Delete Columns to Make Sorted(删列造序)](file/Delete_Columns_to_Make_Sorted.md)
+- [Number of Recent Calls(计算最近的请求次数)](file/Number_of_Recent_Calls.md)
+- [Search in a Binary Search Tree(查找二叉搜索树)](file/Search_in_a_Binary_Search_Tree.md)
+- [N-ary Tree Preorder Traversal(遍历树的各节点值)](file/N_ary_Tree_Preorder_Traversal.md)
+- [N-ary Tree Postorder Traversal(遍历树的各节点值)](file/N_ary_Tree_Postorder_Traversal.md)
+- [Unique Email Addresses(按规则计算不同邮箱地址数量)](file/Unique_Email_Addresses.md)
+- [Height Checker(按规则计算数组排序元素移动个数)](file/Height_Checker.md)
+- [Sort Array By Parity II(数组排序，索引和值的奇偶性必须一致))](file/Sort_Array_By_Parity_II.md)
+- [Find Words That Can Be Formed by Characters(计算可以按规则组成单词的字母数量)](file/Find_Words_That_Can_Be_Formed_by_Characters.md)
+
+
 
 
 
