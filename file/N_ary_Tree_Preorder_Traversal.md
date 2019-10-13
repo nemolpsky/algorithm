@@ -4,7 +4,7 @@ Given an n-ary tree, return the preorder traversal of its nodes' values.
 
 For example, given a 3-ary tree:
 
-![树表](https://github.com/nemolpsky/algorithm/raw/master/file/image//1.png)
+![树表](https://github.com/nemolpsky/algorithm/raw/master/file/image/1.png)
  
 
 Return its preorder traversal as: [1,3,5,6,2,4].
