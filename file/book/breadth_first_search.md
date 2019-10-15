@@ -24,9 +24,11 @@
     可以看到是建立了一个HashMap来存放每个节点和它的邻近节点的关系，然后将起始节点放入队列中，开始循环队列，从头部取出一个元素也就是起始节点，判断它的邻近节点是不是终点，如果不是则把邻近节点也都放入队列中，因为每次循环都是从队列头部获取，这样就保证了查找都是先查找起始节点的本身，没有则查找它的邻近节点，如果还没有则查找邻近节点的邻近节点。一层层的查下去，知道查到为止。
 
     ```
-    public static int search() {
+    public static String search() {
         // 存放节点，循环检查的队列
         LinkedList<String[]> linkedList = new LinkedList<>();
+        // 存放检查过的节点
+		    List<String> checkList = new ArrayList<>();
 
         // 使用map来存储每个节点和临近节点之间的关系
         HashMap<String, String[]> map = new HashMap<>();
@@ -50,12 +52,17 @@
             // 循环检查临近每个临近节点
             for (int i = 0; i < arr.length; i++) {
                 System.out.println(arr[i]);
-                // 判断如果该节点就是要找的节点就停止遍历
-                if (arr[i].equals("BAT")) {
-                    return arr[i];
-                } else {
-                    // 将该节点的临近节点也放入队列中
-                    newLinkedList.add(map.get(arr[i]));
+                // 判断该节点没检查过
+                if (!checkList.contains(arr[i])) {
+                    // 判断如果该节点就是要找的节点就停止遍历
+                    if (arr[i].equals("BAT")) {
+                         return arr[i];
+                    } else {
+                         // 将该节点的临近节点也放入队列中
+                         newLinkedList.add(map.get(arr[i]));
+                    }
+                    // 放入检查过后的集合中
+                    checkList.add(arr[i]);
                 }
             }
 
@@ -108,6 +115,8 @@
      public static Node search() {
         // 存放节点，循环检查的队列
         LinkedList<Node> linkedList = new LinkedList<>();
+        // 存放检查过的节点
+		    List<String> checkList = new ArrayList<>();
 
         // 初始化节点
         Node bat = new Node("BAT", null);
@@ -131,12 +140,17 @@
             for (int i = 0; i < nextNode.neighbours.length; i++) {
                 Node currentNode = nextNode.neighbours[i];
                 System.out.println(currentNode.name);
-                // 判断是否是要找的节点，如果是则返回
-                if (currentNode.name.equals("BAT")) {
-                    return currentNode;
-                } else {
-                    // 如果不是则放入队列中
-                    newLinkedList.add(currentNode);
+                // 判断该节点没检查过
+                if (!checkList.contains(currentNode.name)) {
+                    // 判断是否是要找的节点，如果是则返回
+                    if (currentNode.name.equals("BAT")) {
+                        return currentNode;
+                    } else {
+                        // 如果不是则放入队列中
+                        newLinkedList.add(currentNode);
+                    }
+                     // 放入检查过后的集合中
+                    checkList.add(currentNode.name);
                 }
             }
 
