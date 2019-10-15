@@ -39,40 +39,39 @@ Return true if and only if the given tree is univalued.
   首先肯定是要遍历整个树，来判断是否有不同的值，只需要依次判断每个节点和它的子节点的值是否相同就可以了。这里可以使用深度优先搜索进行遍历，依次遍历到每条边的最深处，时间复杂度是O(n)。
 
   ```
-    public boolean isUnivalTree(TreeNode root) {
-        // 存储节点的队列
-		LinkedList<TreeNode> linkedList = new LinkedList<>();
+  public boolean isUnivalTree(TreeNode root) {
+      // 存储节点的队列
+      LinkedList<TreeNode> linkedList = new LinkedList<>();
 
-        // 添加根节点
-		linkedList.add(root);
+      // 添加根节点
+      linkedList.add(root);
 
-        // 循环队列
-		while (!linkedList.isEmpty()) {
-            // 获取头部元素
-			TreeNode currentNode = linkedList.poll();
-			if (currentNode != null) {
-                // 当前节点的值
-				int value = currentNode.val;
-                // 判断当前节点的左子节点，如果和当前节点值不一样就直接返回false，否则把左子节点塞到队列尾部
-				if (currentNode.left != null) {
-					if (!(value == currentNode.left.val)) {
-						return false;
-					}
-                    linkedList.add(currentNode.left);
-				}
+      // 循环队列
+      while (!linkedList.isEmpty()) {
+          // 获取头部元素
+          TreeNode currentNode = linkedList.poll();
+	      if (currentNode != null) {
+                  // 当前节点的值
+		  int value = currentNode.val;
+                  // 判断当前节点的左子节点，如果和当前节点值不一样就直接返回false，否则把左子节点塞到队列尾部
+		  if (currentNode.left != null) {
+		      if (!(value == currentNode.left.val)) {
+		          return false;
+		      }
+                      linkedList.add(currentNode.left);
+		  }
 
-                // 判断当前节点的右子节点，如果和当前节点值不一样就直接返回false，否则把右子节点塞到队列尾部
-				if (currentNode.right != null) {
-					if (!(value == currentNode.right.val)) {
-						return false;
-					}
-                    linkedList.add(currentNode.right);
-				}
-			}
-		}
-
-		return true;
-	}
+                  // 判断当前节点的右子节点，如果和当前节点值不一样就直接返回false，否则把右子节点塞到队列尾部
+		  if (currentNode.right != null) {
+		      if (!(value == currentNode.right.val)) {
+			  return false;
+		      }
+                      linkedList.add(currentNode.right);
+		  }
+             }
+       }
+       return true;
+  }
   ```
 
 ---
