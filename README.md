@@ -4,6 +4,7 @@
 - [二分查找](file/book/binary_array.md)
 - [快速排序](file/book/quick_sort.md)
 - [广度优先搜索](file/book/breadth_first_search.md)
+- [狄克斯特拉算法](file/book/dijkstra.md)
 
 
 ## LeetCode
