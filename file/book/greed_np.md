@@ -8,6 +8,11 @@ NP完全问题的英文名称是Non-deterministic Polynomial的问题，即多�
  
   可以看到一个人要经过所有的城市，并且要找出最近的路线，那可以从任意一个城市出发，只要经过所有的城市就行了，会发现随着城市数量增多，可以选择的路线也越来越多，时间复杂度是O(n!)，也就是阶乘，这就是一个NP完全问题。
 
+
+  对于每种顺序，他都计算总旅程，再挑选出旅程最短的路线。5个城市有120种不同的排列方式。因此，在涉及5个城市时，解决这个问题需要执行120次操作。涉及6个城市时，需要执行720次操作（有720种不同的排列方式）。涉及7个城市时，需要执行5040次操作！
+
+  ![旅行商](https://github.com/nemolpsky/algorithm/raw/master/file/image/greed1.png)
+  ![旅行商](https://github.com/nemolpsky/algorithm/raw/master/file/image/greed2.png)
 ---
 
 ## 贪婪算法 
