@@ -5,6 +5,7 @@
 - [快速排序](file/book/quick_sort.md)
 - [广度优先搜索](file/book/breadth_first_search.md)
 - [狄克斯特拉算法](file/book/dijkstra.md)
+- [NP完全问题和贪婪算法](file/book/greed_np.md)
 
 
 ## LeetCode
@@ -37,7 +38,9 @@
 - [Univalued Binary Tree(判断二叉树所有的值是否相等)](file/Univalued_Binary_Tree.md)
 - [Fibonacci Number(斐波那契数列求和)](file/Fibonacci_Number.md)
 - [Subdomain Visit Count(统计子域名请求次数)](file/Subdomain_Visit_Count.md)
-
+- [Fibonacci Number(斐波那契数列求和)](file/Fibonacci_Number.md)
+- [Minimum Absolute Difference(求数组中最小绝对差和所有符合的组合)](file/Minimum_Absolute_Difference.md)
+- [Relative Sort Array(相关数组排序)](file/Relative_Sort_Array.md)
 
 
 
