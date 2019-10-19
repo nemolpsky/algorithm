@@ -47,26 +47,26 @@ b - a equals to the minimum absolute difference of any two elements in arr
 
   ```
 	public static List<List<Integer>> minimumAbsDifference(int[] arr) {
-        // 排序
+        	// 排序
 		Arrays.sort(arr);
-        // 存放元素对的数组
+        	// 存放元素对的数组
 		List<List<Integer>> list = new ArrayList<>();
-        // 最小绝对差，初始化是Ineger的最大值
+        	// 最小绝对差，初始化是Ineger的最大值
 		int minimum = Integer.MAX_VALUE;
 
-        // 遍历
+        	// 遍历
 		for (int i = 0; i < arr.length - 1; i++) {
-            // 获取每个元素的和下一个元素的绝对差
+           		// 获取每个元素的和下一个元素的绝对差
 			int abs = Math.abs(arr[i + 1] - arr[i]);
 
-            // 小于等于
+            		// 小于等于
 			if (abs<=minimum) {
-                // 小于就清空集合重新保存
+                		// 小于就清空集合重新保存
 				if (abs<minimum) {
 					minimum = abs;
 					list = new ArrayList<>();
 				}
-                // 相等就存到现在的集合中
+                		// 相等就存到现在的集合中
 				list.add(Arrays.asList(new Integer[] { arr[i], arr[i + 1] }));
 			}
 		}
