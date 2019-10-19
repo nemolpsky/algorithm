@@ -6,7 +6,7 @@ The maximum depth is the number of nodes along the longest path from the root no
 
 - For example, given a 3-ary tree:
 
-  ![旅行商](https://github.com/nemolpsky/algorithm/raw/master/file/image/narytreeexample1.png)
+  ![树](https://github.com/nemolpsky/algorithm/raw/master/file/image/narytreeexample1.png)
  
 
   We should return its max depth, which is 3.
