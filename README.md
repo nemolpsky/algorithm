@@ -16,6 +16,7 @@
 - [Unique Morse Code Words(单词转换为摩斯电码，求去重之后的数量)](file/Unique_Morse_Code_Words.md)
 - [Remove Outermost Parentheses(去除包含多个嵌套的括号字符串中的最外层的括号)](file/Remove_Outermost_Parentheses.md)
 - [Flipping an Image (数组反转顺序再反转值)](file/Flipping_an_Image.md)
+- [Unique Number of Occurrences(判断数组中所有元素出现次数是有有相同的)](file/Unique_Number_of_Occurrences.md)
 - [Sort Array By Parity(奇偶顺序排列数组)](file/Sort_Array_By_Parity.md)
 - [N-Repeated Element in Size 2N Array(符合鸽子洞定理的查找最大元素)](file/N-Repeated_Element_in_Size_2N_Array.md)
 - [Robot Return to Origin(计算机器人移动路径是否返回原点)](file/Robot_Return_to_Origin.md)
