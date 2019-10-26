@@ -44,6 +44,23 @@
 - [Relative Sort Array(相关数组排序)](file/Relative_Sort_Array.md)
 - [Maximum Depth of N-ary Tree(找出树的最大深度)](file/Maximum_Depth_of_N_ary_Tree.md)
 - [Projection Area of 3D Shapes(计算三维投影的面积)](file/Projection_Area_of_3D_Shapes.md)
+- [Increasing Order Search Tree(升序排列平衡搜索树)](file/Increasing_Order_Search_Tree.md)
+- [Reverse Words in a String III(翻转句子中所有单词)](file/Reverse_Words_in_a_String_III.md)
+- [Available Captures for Rook(计算棋子吃子数量)](file/Available_Captures_for_Rook.md)
+- [Find Common Characters(寻找共同字符)](file/Find_Common_Characters.md)
+- [Divisor Game(取余判断)](file/Divisor_Game.md)
+- [Middle of the Linked List(获取链表中间元素)](file/Middle_of_the_Linked_List.md)
+- [Remove All Adjacent Duplicates In String(移除所有连续重复的字符)](file/Remove_All_Adjacent_Duplicates_In_String.md)
+- [Smallest Range I(计算数组最小差值)](file/Smallest_Range_I.md)
+- [Occurrences After Bigram(寻找符合要求的第三个字符串)](file/Occurrences_After_Bigram.md)
+- [Shortest Distance to a Character(寻找字符串中每个字符距离特定字符的最近距离)](file/Shortest_Distance_to_a_Character.md)
+- [Matrix Cells in Distance Order(按曼哈顿距离输出多维数组中除特定点的所有点)](file/Matrix_Cells_in_Distance_Order.md)
+- [Reverse String(空间复杂度O(1)的字符翻转)](file/Reverse_String.md)
+- [Leaf-Similar Trees(判断两棵树底层节点是否相同)](file/Leaf_Similar_Trees.md)
+- [Transpose Matrix(翻转二维数组)](file/Transpose_Matrix.md)
+- [Groups of Special-Equivalent Strings(按照规则给字符串分组)](file/Groups_of_Special_Equivalent_Strings.md)
+- [Number of Lines To Write String(计算一个字符串特定要求下的输出长度)](file/Number_of_Lines_To_Write_String.md)
+- [Play with Chips(计算数组特定规则移动所需最少步数)](file/Play_with_Chips.md)
 
 
 
