@@ -61,9 +61,28 @@
 - [Groups of Special-Equivalent Strings(按照规则给字符串分组)](file/Groups_of_Special_Equivalent_Strings.md)
 - [Number of Lines To Write String(计算一个字符串特定要求下的输出长度)](file/Number_of_Lines_To_Write_String.md)
 - [Play with Chips(计算数组特定规则移动所需最少步数)](file/Play_with_Chips.md)
-
-
-
+- [Toeplitz Matrix(判断二维数组对角线)](file/Toeplitz_Matrix.md)
+- [Maximum Depth of Binary Tree(寻找搜索二叉树最深节点)](file/Maximum_Depth_of_Binary_Tree.md)
+- [Last Stone Weight(重复数组内两个最大值消减)](file/Last_Stone_Weight.md)
+- [Sum of Even Numbers After Queries(多步骤计算后统计数组偶数和)](file/Sum_of_Even_Numbers_After_Queries.md)
+- [IslandPerimeter(计算岛屿周长)](file/Island_Perimeter.md)
+- [Maximum Number of Balloons(计算字符串组成特定单词最大次数)](file/Maximum_Number_of_Balloons.md)
+- [Single Number(数组中找出唯一的数字)](file/Single_Number.md)
+- [Baseball Game(根据规则修改数组)](file/Baseball_Game.md)
+- [Sum of Root To Leaf Binary Numbers(计算二叉树到每个叶子组成的值)](file/Sum_of_Root_To_Leaf_Binary_Numbers.md)
+- [Uncommon Words from Two Sentences(寻找不是共同的单词)](file/Uncommon_Words_from_Two_Sentences.md)
+- [Trim a Binary Search Tree(移除二叉树上多余节点)](file/Trim_a_Binary_Search_Tree.md)
+- [N-ary Tree Level Order Traversal(分别打印二叉树每层节点)](file/N_ary_Tree_Level_Order_Traversal.md)
+- [Next Greater Element I(寻找数组中每个值右边最近的比自己大的值)](file/Next_Greater_Element_I.md)
+- [Fizz Buzz(按条件输出)](file/Fizz_Buzz.md)
+- [Prime Number of Set Bits in Binary Representation(统计范围内数字的二进制数上的1个数是质数的个数)](file/Prime_Number_of_Set_Bits_in_Binary_Representation.md)
+- [Trim a Binary Search Tree(移除二叉树上多余节点)](file/Prime_Number_of_Set_Bits_in_Binary_Representation.md)
+- [Distribute Candies(分糖果)](file/Distribute_Candies.md)
+- [Invert Binary Tree(翻转二叉树)](file/Invert_Binary_Tree.md)
+- [Average of Levels in Binary Tree(计算二叉树每层节点平均值)](file/Average_of_Levels_in_Binary_Tree.md)
+- [Binary Gap(计算二进制1之间的最大间距)](file/Binary_Gap.md)
+- [Find Positive Integer Solution for a Given Equation(破解函数解)](file/Find_Positive_Integer_Solution_for_a_Given_Equation.md)
+- [Number Complement(获得一个十进制数的二进制补位的十进制数)](file/Number_Complement.md)
 
 
 
