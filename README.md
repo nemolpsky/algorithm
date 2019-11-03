@@ -83,7 +83,7 @@
 - [Binary Gap(计算二进制1之间的最大间距)](file/Binary_Gap.md)
 - [Find Positive Integer Solution for a Given Equation(破解函数解)](file/Find_Positive_Integer_Solution_for_a_Given_Equation.md)
 - [Number Complement(获得一个十进制数的二进制补位的十进制数)](file/Number_Complement.md)
-
+- [Letter Case Permutation(列出字符串中所有字母大小写组合)](file/Letter_Case_Permutation.md)
 
 
 
