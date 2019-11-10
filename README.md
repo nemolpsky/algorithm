@@ -84,6 +84,28 @@
 - [Find Positive Integer Solution for a Given Equation(破解函数解)](file/Find_Positive_Integer_Solution_for_a_Given_Equation.md)
 - [Number Complement(获得一个十进制数的二进制补位的十进制数)](file/Number_Complement.md)
 - [Letter Case Permutation(列出字符串中所有字母大小写组合)](file/Letter_Case_Permutation.md)
+- [Distribute Candies to People(递增序列方式分糖果)](file/Distribute_Candies_to_People.md)
+- [Reshape the Matrix(多维数组之间的转换)](file/Reshape_the_Matrix.md)
+- [Goat Latin(根据规则修改句子中的单词)](file/Goat_Latin.md)
+- [Duplicate Zeros(复写数组中的0)](file/Duplicate_Zeros.md)
+- [Compare Strings by Frequency of the Smallest Character(对比两个数组中最小字母数)](file/Compare_Strings_by_Frequency_of_the_Smallest_Character.md)
+- [Binary Number with Alternating Bits(判断二进制数位数是否交错排列)](file/Binary_Number_with_Alternating_Bits.md)
+- [N-th Tribonacci Number(计算数列的和)](file/N_th_Tribonacci_Number.md)
+- [Reverse Linked List(翻转链表)](file/Reverse_Linked_List.md)
+- [Design HashMap(设计一个HashMap)](file/Design_HashMap.md)
+- [Intersection of Two Arrays(求两个数组交集)](file/Intersection_of_Two_Arrays.md)
+- [Largest Perimeter Triangle(数组中找出组成最大周长三角形的三边)](file/Largest_Perimeter_Triangle.md)
+- [Surface Area of 3D Shapes(计算多个立方体的总面积)](file/Surface_Area_of_3D_Shapes.md)
+- [Longest Uncommon Subsequence I(寻找最长特殊字符串)](file/Longest_Uncommon_Subsequence_I.md)
+- [Fair Candy Swap(两个数组交换值保证数组之和都一样)](file/Fair_Candy_Swap.md)
+- [Design HashSet(设计HashSet)](file/Design_HashSet.md)
+- [Partition Array Into Three Parts With Equal Sum(判断数组是否可以分割成三个和相等的子数组)](file/Partition_Array_Into_Three_Parts_With_Equal_Sum.md)
+- [Reverse Only Letters(只翻转字符串中的字母)](file/Reverse_Only_Letters.md)
+- [Delete Node in a Linked List(不访问前节点情况下删除链表某个节点)](file/Delete_Node_in_a_Linked_List.md)
+- [Monotonic Array(判断数组单调性)](file/Monotonic_Array.md)
+- [Distance Between Bus Stops(找出巴士站之间最近距离)](file/Distance_Between_Bus_Stops.md)
+- [Nim Game(取物游戏)](file/Nim_Game.md)
+
 
 
 
