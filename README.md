@@ -105,7 +105,23 @@
 - [Monotonic Array(判断数组单调性)](file/Monotonic_Array.md)
 - [Distance Between Bus Stops(找出巴士站之间最近距离)](file/Distance_Between_Bus_Stops.md)
 - [Nim Game(取物游戏)](file/Nim_Game.md)
-
+- [Max Consecutive Ones(判断数组中连续的1最大长度)](file/Max_Consecutive_Ones.md)
+- [Move Zeroes(空间复杂度O(1)的将数组中的0移到最后)](file/Move_Zeroes.md)
+- [Shortest Completing Word(找出包含特定字符串所有字母的最短单词)](file/Shortest_Completing_Word.md)
+- [Two City Scheduling(两地调度)](file/Two_City_Scheduling.md)
+- [Employee Importance(计算整下属链的累加值)](file/Employee_Importance.md)
+- [Majority Element(空间复杂度O(1)的查找数组中次数超过一半的数字)](file/Majority_Element.md)
+- [Find All Numbers Disappeared in an Array(空间复杂度O(1)的找出序列中缺失的数字)](file/Find_All_Numbers_Disappeared_in_an_Array.md)
+- [Valid Anagram(对比两个乱序的单词是否是同一个)](file/Valid_Anagram.md)
+- [Reorder Data in Log Files(字符串多规则排序)](file/Reorder_Data_in_Log_Files.md)
+- [Greatest Common Divisor of Strings(字符串最大公因子)](file/Greatest_Common_Divisor_of_Strings.md)
+- [Verifying an Alien Dictionary(校验字符串数组的字典序)](file/Verifying_an_Alien_Dictionary.md)
+- [Contains Duplicate(判断数组中的值是否有重复的)](file/Contains_Duplicate.md)
+- [Find the Difference(对照两个乱序的字符串找出一个多余的字符)](file/Find_the_Difference.md)
+- [Two Sum IV Input is a BST(判断二叉搜索树中是否有两个值相加等于目标值)](file/Two_Sum_IV_Input_is_a_BST.md)
+- [Add Digits(求数根)](file/Add_Digits.md)
+- [Count Binary Substrings(统计二进制字符串中的连续子符串)](file/Count_Binary_Substrings.md)
+- [Roman to Integer(罗马数字转化阿拉伯数字)](file/Roman_to_Integer.md)
 
 
 
