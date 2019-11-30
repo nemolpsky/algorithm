@@ -122,6 +122,36 @@
 - [Add Digits(求数根)](file/Add_Digits.md)
 - [Count Binary Substrings(统计二进制字符串中的连续子符串)](file/Count_Binary_Substrings.md)
 - [Roman to Integer(罗马数字转化阿拉伯数字)](file/Roman_to_Integer.md)
+- [Construct String from Binary Tree(按格式输出二叉树)](file/Construct_String_from_Binary_Tree.md)
+- [Degree of an Array(计算数组中包含出现次数最多元素的子数组长度)](file/Degree_of_an_Array.md)
+- [Flood Fill(多维数组深度优先搜索)](file/Flood_Fill.md)
+- [Best Time to Buy and Sell Stock_II(计算股票最大利润)](file/Best_Time_to_Buy_and_Sell_Stock_II.md)
+- [Convert Sorted Array to Binary Search Tree(升序数组转换排列二叉搜索树)](file/Convert_Sorted_Array_to_Binary_Search_Tree.md)
+- [Detect Capital(检查字母大写格式)](file/Detect_Capital.md)
+- [Excel Sheet Column Number(进制数的计算)](file/Excel_Sheet_Column_Number.md)
+- [Convert BST to Greater Tree(二叉平衡树节点累加比该节点大的值)](file/Convert_BST_to_Greater_Tree.md)
+- [Cousins in Binary Tree(判断树中的两个节点是否在同一深度且不是同一个父节点下)](file/Cousins_in_Binary_Tree.md)
+- [Two Sum II Input array is sorted(在排序的数组中找到累加等于目标值的两个元素)](file/Two_Sum_II_Input_array_is_sorted.md)
+- [Minimum Absolute Difference in BST(找出二叉搜索树中两个节点差值绝对值最小的数)](file/Minimum_Absolute_Difference_in_BST.md)
+- [Same Tree(判断两棵树是否一样)](file/Same_Tree.md)
+- [Ransom Note(对比两个字符串字符是否一致)缺最优解](file/Ransom_Note.md)
+- [First Unique Character in a String(找出字符串中最靠前的唯一字符的索引位置)](file/First_Unique_Character_in_a_String.md)
+- [Lemonade Change(判断钞票是否能找零)](file/Lemonade_Change.md)
+- [Merge Two Sorted Lists(合并两个单向链表为升序链表)](file/Merge_Two_Sorted_Lists.md)
+- [Sum of Left Leaves(计算二叉树左叶子节点之和)](file/Sum_of_Left_Leaves.md)
+- [Binary Search(二分查找)](file/Binary_Search.md)
+- [Intersection of Two Arrays II(求两个数组的交集II)](file/Intersection_of_Two_Arrays_II.md)
+- [Missing Number(时间复杂度O(n)，空间复杂度O()的查找数列中缺失的数字)](file/Missing_Number.md)
+- [Rotate String(每次将字符串首字符移动到尾字符，判断是否可以转为特定字符串)](file/Rotate_String.md)
+
+
+
+
+
+
+
+
+
 
 
 
