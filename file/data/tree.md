@@ -61,8 +61,8 @@
    - 节点的关键字表示的是子树中的最大数或最小数，在子树中同样含有这个数据
    - 叶子节点包含了全部数据，同时符合左小右大的顺序
 
-   ![B+树](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/tree4.png)
-   ![B+树](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/tree5.png)
+   ![B+树](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/tree4.jpg)
+   ![B+树](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/tree5.jpg)
 
 2. 时间复杂度
 
