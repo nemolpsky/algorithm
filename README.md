@@ -1,6 +1,7 @@
 # 目录
 ## 数据结构
 - [二叉搜索树/B树/B+树](file/data/tree.md)
+- [堆栈(用Java实现简易堆栈)](file/data/tree.md)
 
 
 ## 算法理论
