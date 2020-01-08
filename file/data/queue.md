@@ -25,7 +25,7 @@
     
 下面是实现的一个简易循环队列，内部是一个固定长度的数组，所以头元素和尾元素会形成一个环状结构。
 
-    ```
+```
     public class MyCircularQueue {
 
         private Integer[] arr = null;
@@ -123,11 +123,11 @@
         }
 
     }
-    ```
+```
 
 在上面那个版本的基础上还可以优化下，比如说下面的改进使用了求余的方法来判断位置，省去了循环队列中判断何时从头开始循环的麻烦，而且因为是使用两个指针来达成循环，只要对两个指针的位置进行控制就可以。
 
-    ```
+```
     class MyCircularQueue {
 
         private int[] data;
@@ -218,14 +218,14 @@
             return ((tail + 1) % size) == head;
         }
     }
-    ```
+```
 ---
 
 ### Java自带的队列实现
 
 Java中其实也有提供已经实现好的队列，种类很多，```LinkedList```就是一个，它既实现了```List```接口又实现了```Deque```接口，所以它既是个集合也可以当做队列来使用，其他还有很多功能强大的队列。
 
-    ```
+```
     public class Main {
         public static void main(String[] args) {
             // 1. Initialize a queue.
@@ -245,7 +245,7 @@ Java中其实也有提供已经实现好的队列，种类很多，```LinkedList
             System.out.println("The size is: " + q.size());
         }
     }
-    ```
+```
 ---
 
 ### BFS

@@ -15,7 +15,7 @@
 
 先是定义好节点的对象结构，有两个属性，分别是存储的值和前置节点。然后就是每次入栈的时候都要创建一个新节点来保存值，然后帮上次创建的节点作为当前节点的前置节点，出栈的时候则需要将当前节点弹出，当前节点的前置节点作为最顶层的节点。
 
-    ```
+```
     public class SimpleStack<T> {
 
     // 当前节点
@@ -122,11 +122,11 @@
      T value;
      Node<T> pre;
     }
-    ```
+```
 
-    测试结果，可以看到确实是先进后出的顺序。
+测试结果，可以看到确实是先进后出的顺序。
 
-    ```
+```
     public static void main(String[] args){
         SimpleStack<String> stack = new SimpleStack<String>();
 
@@ -158,20 +158,20 @@
     0str
     栈长度-0
     栈是否为空-true
-    ```
+```
 
 ---
 ### Java中自带的栈
 
 Java中本身就已经有实现的Stack栈了，Stack继承自Vector，相比之下自带的栈功能就更加丰富。
 
-   ```
+```
    Stack<Integer> stack = new Stack<Integer>();
    stack.add(1);
    stack.push(1);
    stack.add(1,2);
    stack.addAll(new ArrayList<>());
-   ```
+```
 
 ---
 
