@@ -16,7 +16,7 @@
 先是定义好节点的对象结构，有两个属性，分别是存储的值和前置节点。然后就是每次入栈的时候都要创建一个新节点来保存值，然后帮上次创建的节点作为当前节点的前置节点，出栈的时候则需要将当前节点弹出，当前节点的前置节点作为最顶层的节点。
 
 ```
-    public class SimpleStack<T> {
+public class SimpleStack<T> {
 
     // 当前节点
     private Node currentNode;
@@ -115,13 +115,13 @@
         return builder.toString();
     }
 
-    }
+}
 
-    // 节点对象，存的值和前置节点
-    class Node<T> {
-     T value;
-     Node<T> pre;
-    }
+// 节点对象，存的值和前置节点
+class Node<T> {
+    T value;
+    Node<T> pre;
+}
 ```
 
 测试结果，可以看到确实是先进后出的顺序。
