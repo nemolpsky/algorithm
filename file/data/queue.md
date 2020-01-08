@@ -9,15 +9,15 @@
 
 既然队列每次添加和移除都是分别操作队列的头部和尾部元素，所以肯定就需要两个指针来指向当前最新的头部元素和尾部元素，然后随着添加和移除操作来对指针进行移动。
 
-    - 添加
+- 添加
       
-      下面这张图就是添加操作，可以看到原本队列中有四个元素，尾部指针应该指向2，然后又向尾部添加了一个10，那尾部指针应该指向10。
+  下面这张图就是添加操作，可以看到原本队列中有四个元素，尾部指针应该指向2，然后又向尾部添加了一个10，那尾部指针应该指向10。
 
-      ![队列](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/queue1.png)
+  ![队列](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/queue1.png)
     
-    - 下面这张图是移除操作，原本头部是5，移除之后头部指针就指向5后面的13了。
+- 下面这张图是移除操作，原本头部是5，移除之后头部指针就指向5后面的13了。
 
-      ![队列](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/queue2.png)
+  ![队列](https://github.com/nemolpsky/algorithm/raw/master/file/data/image/queue2.png)
 
 ---
 
