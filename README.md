@@ -14,6 +14,8 @@
 - [狄克斯特拉算法](file/book/dijkstra.md)
 - [NP完全问题和贪婪算法](file/book/greed_np.md)
 
+## 线程题目
+- [Print_in_Order(线程顺序执行打印)](file/Print_in_Order.md)
 
 ## LeetCode
 - [Defanging an IP Address(替换IP地址中的点)](file/Defanging_an_IP_Address.md)
