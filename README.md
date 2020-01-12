@@ -1,9 +1,10 @@
 # 目录
 ## 数据结构
 - [二叉搜索树/B树/B+树](file/data/tree.md)
+- [线性表](file/data/line.md)
 - [堆栈](file/data/stack.md)
 - [队列](file/data/queue.md)
-
+- [二叉树](file/data/binary_tree.md)
 
 ## 算法理论
 - [大O表示法](file/book/big_o.md)
