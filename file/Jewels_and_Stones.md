@@ -49,3 +49,26 @@ The letters in J are guaranteed distinct, and all characters in J and S are lett
         return count;
     }
   ```
+
+- HashSet
+
+  使用HashSet这类的散列表，先遍历存储J的所有字符，然后再循环S的所有字符，查找在HashSet中是否有这个字符，时间复杂度只需要O(n)。
+  
+  ```
+    public int numJewelsInStones(String J, String S) {
+        if(J.length() == 0){
+            return 0;
+        }
+        HashSet<Character> jewel =  new HashSet<Character>();
+        for(int i = 0; i < J.length(); i ++){
+            jewel.add(J.charAt(i));
+        }
+        int num = 0;
+        for(int i = 0; i < S.length(); i ++){
+            if(jewel.contains(S.charAt(i))){
+                num ++;
+            }
+        }
+        return num;
+    }
+  ```
