@@ -152,7 +152,7 @@
 - [Rotate String(每次将字符串首字符移动到尾字符，判断是否可以转为特定字符串)](file/Rotate_String.md)
 - [Minimum Distance Between BST Nodes(找出二叉平衡树各个节点之间最小差值)](file/Minimum_Distance_Between_BST_Nodes.md)
 - [Sum of Two Integers(使用^和&计算数字)](file/Sum_of_Two_Integers.md)
-
+- [Maximize Sum Of Array After K Negations(对数组元素进行K次正负翻转，保证数组数值之和最大)](file/Maximize_Sum_Of_Array_After_K_Negations.md)
 
 
 
