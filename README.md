@@ -6,6 +6,8 @@
 - [队列](file/data/queue.md)
 - [二叉树](file/data/binary_tree.md)
 - [BitSet(位图存储结构)](file/data/bitset.md)
+- [倒排索引](file/data/Inverted_index.md)
+
 
 ## 算法理论
 - [大O表示法](file/book/big_o.md)
