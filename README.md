@@ -10,9 +10,18 @@
 - [小顶堆/大顶堆](file/data/heap.md)
 
 ## 算法理论
-- [大O表示法](file/book/big_o.md)
-- [二分查找](file/book/binary_array.md)
-- [快速排序](file/book/quick_sort.md)
+- 基础理论
+  - [大O表示法](file/book/big_o.md)
+- 查找
+  - [二分查找](file/book/binary_array.md)
+- 排序  
+  - [冒泡排序](file/book/冒泡排序.md)
+  - [快速排序](file/book/quick_sort.md)
+  - [选择排序](file/book/选择排序.md)
+  - [插入排序](file/book/插入排序.md)
+  - [计数排序](file/book/计数排序.md)
+  - [桶排序](file/book/桶排序.md)
+
 - [广度优先搜索](file/book/breadth_first_search.md)
 - [狄克斯特拉算法](file/book/dijkstra.md)
 - [NP完全问题和贪婪算法](file/book/greed_np.md)
